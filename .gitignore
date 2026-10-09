@@ -1,0 +1,12 @@
+/vendor/
+/.env
+/writable/cache/*
+/writable/logs/*
+/writable/session/*
+/writable/uploads/*
+/public/uploads/avatars/*
+!/public/uploads/avatars/.gitkeep
+!/writable/cache/.gitkeep
+!/writable/logs/.gitkeep
+!/writable/session/.gitkeep
+!/writable/uploads/.gitkeep
